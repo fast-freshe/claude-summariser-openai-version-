@@ -1,0 +1,72 @@
+Week 1: Engineer Discipline ✅ (You're Done!)
+Day 1: Git & version control ✅
+Day 2: OOP as design judgment ✅
+Day 3: Project structure ✅
+Day 4: Working with AI assistant ✅
+Day 5: Reviewing AI code ✅
+
+STATUS: 5/5 VERIFIED! 🎉
+Stage 1 Project (Submitted ✅):
+THE CLI ANALYZER
+→ Python CLI tool
+→ Clean project structure
+→ PostgreSQL database
+→ Invoice parsing and validation
+→ Already submitted! ✅
+
+Week 2: Foundations II — Logging, Databases, First LLM Calls
+Day 6: Failure handling & observability ← In Review
+        "It works on my machine" isn't enough!
+        Logging, error handling, monitoring
+
+Day 7: Data modeling + real DB from code ← In Review
+        PostgreSQL schema design
+        Querying from Python properly
+
+Day 8: Calling Claude API directly ← Not started
+        What's actually on the wire?
+        HTTP, auth, message format
+
+Day 9: Reliable structured output ← Not started
+        Contracts not hopeful prompting!
+        Pydantic validation of LLM output
+
+Day 10: From script to service ← Not started
+         Owning the endpoint!
+         FastAPI basics
+         POST endpoint that works!
+Stage 2 Project (Unlocks after Day 10):
+THE AI SERVICE
+→ CLI becomes FastAPI service
+→ Claude does the thinking
+→ Pydantic validates output
+→ Invoice validation via API!
+
+Week 3: Prompts, Cost & Knowledge Layer
+Day 11: Prompt engineering as discipline ← Not started
+         Systematic, not guessing
+         Testing and measuring prompts
+
+Day 12: Cost, latency & token awareness ← Not started
+         ← YOUR EXACT PROBLEM with manager!
+         How to reduce tokens properly
+         When latency matters
+
+Day 13: What embeddings actually are ← Not started
+         Intuition behind vectors
+         How meaning becomes numbers
+
+Day 14: Storing & querying embeddings ← Not started
+         Supabase pgvector OR Chroma
+         Similarity search in practice
+
+Day 15: RAG from scratch ← Not started
+         No framework — understand internals!
+         Chunking, embedding, retrieving manually
+Stage 3 Project (Unlocks after Day 15):
+GROUNDED ANSWERS WITH RAG
+→ Service stops guessing
+→ Cites real policy documents!
+→ Invoice checked against company policies
+→ "Vendor not approved"
+→ "Amount exceeds limit"
